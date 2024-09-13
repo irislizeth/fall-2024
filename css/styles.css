@@ -2,17 +2,15 @@
 @import 'main.css';
 
 .test-font {
-
-color: #D250D2;
-
+color: var(--dominantColor) !important;;
 }
 
 
 .test-font-2 {
-
-    color: #D250D2;
+    color: var(--dominantColor) !important;;
+}
     
-    }
+    
     
 
 
