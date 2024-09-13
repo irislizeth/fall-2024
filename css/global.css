@@ -1,0 +1,22 @@
+/* colors */
+
+/*
+60% of #D2502D - Primary
+30% of  #D2A32D - Secondary
+10% of #AFD22D - Accent
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor: #D2502D;
+
+/* var(--secondaryColor) !important; */
+--dominantColor: #D2A32D;
+
+/* var(--accentColor) !important; */
+--dominantColor: #AFD22D;
+
+
+
+}
