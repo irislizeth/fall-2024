@@ -87,7 +87,8 @@
 
 @media screen and (max-width:768px){
   .schedule-section {
-    width: 100%
+    width: 100%;
+    display: none;
   }
 
 }
