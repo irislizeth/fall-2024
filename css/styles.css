@@ -66,13 +66,17 @@
  }
  
  .content-table tbody tr:last-of-type {
-   border-bottom: 3px solid   var(--dominantColor) !important;
+   border-bottom: 3px solid var(--dominantColor) !important;
  }
  
  .content-table tbody tr td:first-of-type {
    background-color: #ffffff;
    text-align: right;
    border-right: 1px solid #dddddd;
+ }
+
+ .schedule-section {
+   background-color: #f6f8fa;
  }
 
 
