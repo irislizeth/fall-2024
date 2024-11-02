@@ -3,7 +3,7 @@ html {
 }
 
 body{
-    background-color: #90bc57;
+    background-color: #b7eb73;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,4 +22,10 @@ h1, h2, h3, h4, h5, h6 {
 .nav-link:hover{
     text-decoration: underline;
     text-decoration: 3px;
+}
+
+.footer-row {
+    background-color: var(--dominantColor) !important;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
