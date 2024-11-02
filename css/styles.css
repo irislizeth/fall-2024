@@ -37,7 +37,7 @@
 /* Table */
 .content-table {
    border-collapse: collapse;
-   max-width: 1000px;
+   /*max-width: 1000px;*/
    margin: auto;
    text-align: center;
    width: 100%;
@@ -88,7 +88,6 @@
 @media screen and (max-width:768px){
   .schedule-section {
     width: 100%;
-    display: none;
   }
 
 }
